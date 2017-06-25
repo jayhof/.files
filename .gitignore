@@ -1,0 +1,9 @@
+*
+
+!.gitignore
+!.config/
+!.config/*
+!readme.md
+!.zshrc
+!.gitconfig
+!.editorconfig
