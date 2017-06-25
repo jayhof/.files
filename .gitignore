@@ -2,7 +2,10 @@
 
 !.gitignore
 !.config/
-!.config/*
+!.config/iTerm
+!.config/iTerm/*
+!.config/nvim
+!.config/nvim/*
 !readme.md
 !.zshrc
 !.gitconfig
